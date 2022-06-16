@@ -91,10 +91,10 @@ global.youtube = yt
 global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/Ivan56x/LuisBot3'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'https://chat.whatsapp.com/H18N0f8seDsBdOyAuweUIT'
 global.nngrupo = nn
 
 global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
